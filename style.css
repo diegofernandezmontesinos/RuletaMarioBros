@@ -57,17 +57,17 @@ h1 {
 }
 
 .box label:nth-child(1) i {
-    background-image: url('/00000-PORTAFOLIO-DFM/03-RULETA-MARIO-BROS/img/01.jpg');
+    background-image: url('./images/estrella.jpg');
     animation: animate 0.5s steps(3) infinite;
 }
 
 .box label:nth-child(2) i {
-    background-image: url('/00000-PORTAFOLIO-DFM/03-RULETA-MARIO-BROS/img/02.jpg');
+    background-image: url('./images/shyguy.jpg');
     animation: animate 0.4s steps(3) infinite;
 }
 
 .box label:nth-child(3) i {
-    background-image: url('/00000-PORTAFOLIO-DFM/03-RULETA-MARIO-BROS/img/03.jpg');
+    background-image: url('./images/toad.jpg');
     animation: animate 0.8s steps(3) infinite;
 }
 

@@ -1,0 +1,1 @@
+Todavia presenta fallos, pero he arreglado la lógica del juego.
